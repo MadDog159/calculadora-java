@@ -20,6 +20,7 @@ public class Application {
         Scanner sc = new Scanner(System.in);
         Calculator calc = new Calculator();
         System.out.println("--------Bienvenido a mi Calculadora-----------");
+        System.out.println("hola");
         boolean runAgain = false;
         do{
             System.out.println("Que operacion desea realizar?");
